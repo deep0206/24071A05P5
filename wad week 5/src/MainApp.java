@@ -54,3 +54,5 @@ public class MainApp {
         }
     }
 }
+/*(base) radhapydipamul@Radhas-MacBook-Pro wad week 5 % javac -cp "lib/mysql-connector-j-9.6.0.jar" src/*.java
+(base) radhapydipamul@Radhas-MacBook-Pro wad week 5 % java -cp "src:lib/mysql-connector-j-9.6.0.jar" MainApp*/
